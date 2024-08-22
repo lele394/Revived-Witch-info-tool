@@ -1,3 +1,4 @@
+Base character used to trace everything is Phileanosis
 Phileanosis 
 cwordrole : 502945
 cworditem : 1803682
@@ -29,39 +30,6 @@ game_data/GLOBAL/data/exceldata/word/cwordhandbook.json > Data.backstory_ID.text
 # Get Name
 game_data/GLOBAL/data/exceldata/role/roleconfig.json > Data.dollID.nameTextID
 game_data\GLOBAL\data\exceldata\word\cwordrole_en.json > Data.TextID.text
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -101,23 +69,45 @@ game_data/GLOBAL/data/exceldata/word/cwordskill_en.json > Data.skillTextID.text
 
 
 
+# Get vocation
+roleconfig.json > Data.dollID.vocation => vocation ID
+
+game_data\GLOBAL\data\exceldata\role\cvocationcfg.json > Data[vocationID].nameTextID => vocation name textID
+OR
+game_data\GLOBAL\data\exceldata\role\cvocationcfg.json > Data[vocationID].vocationDescribeTextID => vocation description textID
+
+cwordrole_en.json > Data.textID
+501805
+501812
+
+
+# Get unique equip
+roleconfig.json > Data.dollID.uniqueequipid
+game_data\GLOBAL\data\exceldata\item\citemattr.json > Data.uniqueequipid.destribeTextID
+                                                    Data.uniqueequipid.nameTextID
+game_data\GLOBAL\data\exceldata\word\cworditem_en.json > Data.textID.text
+
+# Get Role line
+***Not available for some apparently, not implemented***
+> sometimes available in CN under roleLine property in rolecofing (Gameplay doll)
+roleconfig.json > Data.dollID.roleLineTextID 
+
+
+
+# Get artists
+ID on ccarddrolecofig_handbook.json, use IDs in cwordhandbook_en.json
+Related IDs :
+- artistTextID
+- cvTextIDChs
+- cvTextIDJpn
+- overseasArtistTextID
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+ ---
+ Failed parsing
 
 
 
