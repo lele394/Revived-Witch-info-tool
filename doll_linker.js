@@ -222,7 +222,10 @@ function GetVocationWithID(id) {
 
     } catch (error) {
         console.error('Error:', error);
-        return "JS error while getting attributes";
+        return {
+            name: "JS error while getting attributes",
+            description: "JS error while getting attributes",
+        };
     }
 }
 

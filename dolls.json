@@ -2,7 +2,10 @@
   "1": {
     "name": "$heroine$",
     "title": "Witch of the Void",
-    "vocation": "JS error while getting attributes",
+    "vocation": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
     "gender": "Female",
     "age": "？",
     "birthday": "?",
