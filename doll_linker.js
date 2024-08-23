@@ -89,7 +89,7 @@ function processSkillText(text, parameters) {
             text = text.replace(placeholder, parameters[i]);
         }
         
-        // Remove all HTML tags from the string
+        // Remove all HTML tags from the string, comment that out to keep them (website DB?)
         text = text.replace(/<[^>]*>/g, '');
 
         return text;
