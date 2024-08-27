@@ -1,5 +1,5 @@
-const fs = require('fs');
-const CreateDollFromID = require('./doll_linker');
+import fs from 'fs'
+import { CreateDollFromID } from './doll_linker.js';
 
 const Doll_IDs = [
     1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14,
@@ -20,6 +20,7 @@ const dollsCollection = {};
 
 // Iterate over each ID in Doll_IDs and populate the object
 Doll_IDs.forEach(id => {
+    console.log(`Generating Doll ${id}`);
     try {
         // Try to run CreateDollFromID and assign the result
         dollsCollection[id] = CreateDollFromID(id);

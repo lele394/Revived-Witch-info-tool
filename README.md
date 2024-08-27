@@ -15,3 +15,5 @@ const Doll = CreateDollFromID(58)
 
 console.log(Doll)
 ```
+
+Refactored the shit out of it

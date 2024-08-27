@@ -1,0 +1,14 @@
+{
+  "name": "rw_parser",
+  "version": "0.0.1",
+  "description": "parser for kimaris dump",
+  "main": "doll_linker.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node ./doll_linker.js",
+    "generate" : "node ./json_generator.js"
+  },
+  "author": "Léo BECHET",
+  "license": "ISC"
+}

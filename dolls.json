@@ -37,7 +37,11 @@
         "description": "Consumes 1 less Chaos Energy when using skills."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/1.png"
   },
   "2": {
     "name": "Croche",
@@ -80,7 +84,11 @@
         "description": "Croche has a 20% chance to fully restore her Health when it drops to 0."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/2.png"
   },
   "3": {
     "name": "Miku",
@@ -123,7 +131,11 @@
         "description": "Increases damage dealt by 5% for 10s after casting Evilsend. Can stack up to 25%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/3.png"
   },
   "4": {
     "name": "Eulalia",
@@ -166,7 +178,11 @@
         "description": "Increases healing effect by 10%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/4.png"
   },
   "5": {
     "name": "Utu",
@@ -205,7 +221,11 @@
       },
       "skill3": "JS error while getting skill details"
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/5.png"
   },
   "6": {
     "name": "Vedare",
@@ -251,7 +271,8 @@
     "special_equip": {
       "name": "Abundant Prayer",
       "description": "Something worn while performing the ritual dance to celebrate the return of life to the earth."
-    }
+    },
+    "profile_img": "/assets/profile_img/6.png"
   },
   "7": {
     "name": "Valorf",
@@ -294,7 +315,11 @@
         "description": "Increases base ATK by 5% (10% at Evolve 1)"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/7.png"
   },
   "8": {
     "name": "Afallen",
@@ -340,7 +365,8 @@
     "special_equip": {
       "name": "Sweet Dreams",
       "description": "Afallen's favorite pillow. The fluffiness is beyond your wildest dreams. Sleep on this heavenly creation to send your fatigue flying."
-    }
+    },
+    "profile_img": "/assets/profile_img/8.png"
   },
   "9": {
     "name": "Primula",
@@ -383,7 +409,11 @@
         "description": "Increases healing effect by 10%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/9.png"
   },
   "10": {
     "name": "Flora",
@@ -429,7 +459,8 @@
     "special_equip": {
       "name": "Everlasting Leisure",
       "description": "A harp endowed with memories. Time did not leave a single blemish on the timbre of its notes. This instrument has once pacified the fiendish aura of the Demongod Gordia."
-    }
+    },
+    "profile_img": "/assets/profile_img/10.png"
   },
   "11": {
     "name": "Caledonia",
@@ -475,7 +506,8 @@
     "special_equip": {
       "name": "Donellsegal",
       "description": "A spear granted by the elven goddess to the worthy. The wielder gains the goddess' blessing."
-    }
+    },
+    "profile_img": "/assets/profile_img/11.png"
   },
   "12": {
     "name": "Anemone",
@@ -518,7 +550,11 @@
         "description": "Increases ATK by 25% during the first 30 seconds of combat."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/12.png"
   },
   "13": {
     "name": "Akasha",
@@ -564,7 +600,8 @@
     "special_equip": {
       "name": "Star Will",
       "description": "A legendary sword instilled with the will of its wielder. The blade glimmers with the brilliance of stars."
-    }
+    },
+    "profile_img": "/assets/profile_img/13.png"
   },
   "14": {
     "name": "Nemesi",
@@ -607,7 +644,11 @@
         "description": "Increases Crit DMG by 30%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/14.png"
   },
   "15": {
     "name": "Pakane",
@@ -650,7 +691,11 @@
         "description": "Enemies who attack Pakane have a 20% chance of being frozen for 2s."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/15.png"
   },
   "16": {
     "name": "Octavia",
@@ -693,7 +738,11 @@
         "description": "When in combat, the firstly-used skill deals 100% more damage."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/16.png"
   },
   "17": {
     "name": "Ella",
@@ -739,7 +788,8 @@
     "special_equip": {
       "name": "Blessed Sky",
       "description": "A bracelet Ella bought on her birthday. It's her lucky charm."
-    }
+    },
+    "profile_img": "/assets/profile_img/17.png"
   },
   "18": {
     "name": "Tama",
@@ -782,7 +832,11 @@
         "description": "Heals all allies for 50% of ATK when attacking."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/18.png"
   },
   "19": {
     "name": "Mikoto",
@@ -825,7 +879,11 @@
         "description": "When Mikoto takes damage, there is a 40% chance to place a Soul Shield that absorbs damage equal to 25% of Mikoto's max Health on the Doll with the lowest Health for 5s. Can only trigger once every 10s."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/19.png"
   },
   "20": {
     "name": "Hadal",
@@ -868,7 +926,11 @@
         "description": "Increases base ATK by 5% (10% at Evolve 1)"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/20.png"
   },
   "21": {
     "name": "Svalbard",
@@ -911,7 +973,11 @@
         "description": "Increases base Health by 5% (10% at Evolve 2)"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/21.png"
   },
   "22": {
     "name": "Goorveig",
@@ -954,7 +1020,11 @@
         "description": "Increases the max Health and ATK of Creature of the Abyss by 30% each."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/22.png"
   },
   "23": {
     "name": "Catherine",
@@ -1000,7 +1070,8 @@
     "special_equip": {
       "name": "Sacred Oath",
       "description": "The flag held high by the girl who took the lead in charging to the enemy, bringing light and glory back to this land."
-    }
+    },
+    "profile_img": "/assets/profile_img/23.png"
   },
   "24": {
     "name": "Czerni",
@@ -1043,7 +1114,11 @@
         "description": "Has a 40% chance to restore 1 Chaos Energy."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/24.png"
   },
   "25": {
     "name": "Datheios",
@@ -1086,7 +1161,11 @@
         "description": "For every point of Order Energy consumed, Datheios increases his Magic DMG dealt by 4% for 10 seconds, stacking up to 28%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/25.png"
   },
   "26": {
     "name": "Lucia",
@@ -1129,7 +1208,11 @@
         "description": "Increases base Physical DEF by 5% (10% at Evolve 1)"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/26.png"
   },
   "27": {
     "name": "Cetess",
@@ -1172,7 +1255,11 @@
         "description": "Increases damage dealt by 10% for every 10% max Health lost."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/27.png"
   },
   "28": {
     "name": "Viola",
@@ -1215,7 +1302,11 @@
         "description": "After taking lethal damage, Viola reveals her mechanical core, which takes 50% more damage. If the core is not destroyed within 5s, the Doll will be auto repaired. Can only trigger once per combat."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/28.png"
   },
   "29": {
     "name": "Celanya",
@@ -1261,7 +1352,8 @@
     "special_equip": {
       "name": "Soaring Skies",
       "description": "A great bow given to Celanya by her father. Only the best hunter in the village is allowed to wield it. A mere man can hardly even draw the bowstring."
-    }
+    },
+    "profile_img": "/assets/profile_img/29.png"
   },
   "30": {
     "name": "Arcana",
@@ -1307,7 +1399,8 @@
     "special_equip": {
       "name": "Fool's Trek",
       "description": "Can peer into people's hearts and guide them forward."
-    }
+    },
+    "profile_img": "/assets/profile_img/30.png"
   },
   "32": {
     "name": "Elis",
@@ -1350,7 +1443,11 @@
         "description": "Increases damage dealt by 10% every 30 seconds, up to 50%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/32.png"
   },
   "33": {
     "name": "Cynetia",
@@ -1396,7 +1493,8 @@
     "special_equip": {
       "name": "Eternal Bond",
       "description": "A hair accessory gifted by Eulalia, that has been deeply cherished by Cynetia."
-    }
+    },
+    "profile_img": "/assets/profile_img/33.png"
   },
   "34": {
     "name": "Shuffle",
@@ -1442,7 +1540,8 @@
     "special_equip": {
       "name": "Oblivion",
       "description": "Once stained with blood, it locks on the target until it snuffs the life out of them."
-    }
+    },
+    "profile_img": "/assets/profile_img/34.png"
   },
   "35": {
     "name": "Lilia",
@@ -1488,7 +1587,8 @@
     "special_equip": {
       "name": "Sparkling Ice",
       "description": "Made from the coldest crystals in Snegurochka, emitting chilling aurora."
-    }
+    },
+    "profile_img": "/assets/profile_img/35.png"
   },
   "36": {
     "name": "Cuspidata",
@@ -1531,7 +1631,11 @@
         "description": "Normal attack and skills reduce enemies' damage by 6% for 6s. Can stack up to up to 30%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/36.png"
   },
   "38": {
     "name": "Metamorphoses",
@@ -1577,7 +1681,8 @@
     "special_equip": {
       "name": "Polyphase",
       "description": "A mask that can connect with souls. It nibbles away at the wearer's heart."
-    }
+    },
+    "profile_img": "/assets/profile_img/38.png"
   },
   "39": {
     "name": "Raphan",
@@ -1623,7 +1728,8 @@
     "special_equip": {
       "name": "Virulenthorn",
       "description": "A sacred object that's passed down the Hameln family, one of the Six Ovates that is in charge of the \"Cròg (Claw)\". Said to be able to pierce through everything."
-    }
+    },
+    "profile_img": "/assets/profile_img/39.png"
   },
   "40": {
     "name": "Marina",
@@ -1652,7 +1758,11 @@
       "skill2": "JS error while getting skill details",
       "skill3": "JS error while getting skill details"
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/40.png"
   },
   "41": {
     "name": "Ushpia",
@@ -1698,7 +1808,8 @@
     "special_equip": {
       "name": "Basilisk Soul",
       "description": "A staff that symbolizes the power of the Desert Alliance, hosting the soul of the last Andes chieftain."
-    }
+    },
+    "profile_img": "/assets/profile_img/41.png"
   },
   "42": {
     "name": "Acheronte",
@@ -1744,7 +1855,8 @@
     "special_equip": {
       "name": "Divine Mercy",
       "description": "A symbol of power held by the girl on the underworld throne. It seems to be telling a tale of salvation that echoes throughout the River of the Underworld."
-    }
+    },
+    "profile_img": "/assets/profile_img/42.png"
   },
   "43": {
     "name": "Norn",
@@ -1790,7 +1902,8 @@
     "special_equip": {
       "name": "Soulcry",
       "description": "A magical ornament. The Koshchey family, the steward of \"Cridhe\", wears it in sacrificial rituals to commune with the spirit of nature and to bestow blessings on Fomoire."
-    }
+    },
+    "profile_img": "/assets/profile_img/43.png"
   },
   "44": {
     "name": "Parme",
@@ -1833,7 +1946,11 @@
         "description": "Increases Attack Speed by 5% (10% at Evolve 1)"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/44.png"
   },
   "45": {
     "name": "Dana",
@@ -1876,7 +1993,11 @@
         "description": "Has a 100% chance to cleanse negative effects from all allies when using Calling of the Elf."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/45.png"
   },
   "46": {
     "name": "Lusonia",
@@ -1905,7 +2026,11 @@
       "skill2": "JS error while getting skill details",
       "skill3": "JS error while getting skill details"
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/46.png"
   },
   "47": {
     "name": "Nocturna",
@@ -1951,7 +2076,8 @@
     "special_equip": {
       "name": "Scarlet Wish",
       "description": "An essential for a noble lady when going out. Offers protection from sunburn."
-    }
+    },
+    "profile_img": "/assets/profile_img/47.png"
   },
   "48": {
     "name": "Kyphon",
@@ -1997,7 +2123,8 @@
     "special_equip": {
       "name": "Ode to the End",
       "description": "A symbol of the leader of Deliverers. The mere presence of this scythe alone strikes fear into others. It is said to be made by the Ruler of the Underworld."
-    }
+    },
+    "profile_img": "/assets/profile_img/48.png"
   },
   "49": {
     "name": "Yurugu",
@@ -2040,7 +2167,11 @@
         "description": "Yurugu has a 20% chance to fully restore her Health when it reaches 0."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/49.png"
   },
   "50": {
     "name": "Cortana",
@@ -2073,7 +2204,11 @@
         "description": "JS error while processing skill text"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/50.png"
   },
   "51": {
     "name": "Tuonel",
@@ -2119,7 +2254,8 @@
     "special_equip": {
       "name": "Holy Forbiddenness",
       "description": "Emits a warm, holy glow. Holds a mysterious forbidden power."
-    }
+    },
+    "profile_img": "/assets/profile_img/51.png"
   },
   "52": {
     "name": "Yothaya",
@@ -2162,7 +2298,11 @@
         "description": "Heals the Doll with the lowest Health for 100% of Yothaya's ATK every 5 seconds."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/52.png"
   },
   "53": {
     "name": "Ardisia",
@@ -2208,7 +2348,8 @@
     "special_equip": {
       "name": "Sea Whisper",
       "description": "A never wilting flower that Ardisia occasionally wears in her hair. It's always silent there listening to the maiden's wishes."
-    }
+    },
+    "profile_img": "/assets/profile_img/53.png"
   },
   "54": {
     "name": "Garditis",
@@ -2251,7 +2392,11 @@
         "description": "Immune to debuffs after using Healing Concerto, for 2s (4s at Evolve 1)."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/54.png"
   },
   "55": {
     "name": "Inn & Lou",
@@ -2294,7 +2439,11 @@
         "description": "Increases damage dealt by 10% every 20 seconds. Can stack up to 50%."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/55.png"
   },
   "56": {
     "name": "Amanami",
@@ -2340,7 +2489,8 @@
     "special_equip": {
       "name": "Skyroar",
       "description": "A ceremonial object used to celebrate the coming of spring. When Amanami holds this light and elegant fan, it makes her more adorable than she already is."
-    }
+    },
+    "profile_img": "/assets/profile_img/56.png"
   },
   "57": {
     "name": "Avil",
@@ -2383,7 +2533,11 @@
         "description": "Takes 10% less damage."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/57.png"
   },
   "58": {
     "name": "Belar",
@@ -2416,7 +2570,11 @@
         "description": "JS error while processing skill text"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/58.png"
   },
   "59": {
     "name": "Luan",
@@ -2459,7 +2617,11 @@
         "description": "Revives automatically after death. Increases ATK, Physical DEF and Magic DEF by 30% and restores 10% of max Health per second for 10s. Can only trigger once per combat."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/59.png"
   },
   "60": {
     "name": "Kamui",
@@ -2502,7 +2664,11 @@
         "description": "JS error while processing skill text"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/60.png"
   },
   "61": {
     "name": "Yui",
@@ -2545,7 +2711,11 @@
         "description": "Reduces Magic DMG taken by 20%. Also ignores the enemy's Physical DEF equal to 40% of Yui's ATK for 10s after using Demonsbane Spear."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/61.png"
   },
   "62": {
     "name": "Nasha",
@@ -2578,7 +2748,11 @@
         "description": "JS error while processing skill text"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/62.png"
   },
   "63": {
     "name": "Nannar",
@@ -2624,7 +2798,8 @@
     "special_equip": {
       "name": "Multiglory",
       "description": "A magical mirror that reflects people's hidden desires. It's said that no amount of force can break it."
-    }
+    },
+    "profile_img": "/assets/profile_img/63.png"
   },
   "64": {
     "name": "Isabel",
@@ -2670,7 +2845,8 @@
     "special_equip": {
       "name": "Fadeless",
       "description": "A weapon wielded by Isabel only when there is salvation needed. It always fulfills its commitment, that's for sure."
-    }
+    },
+    "profile_img": "/assets/profile_img/64.png"
   },
   "65": {
     "name": "La Crima",
@@ -2713,7 +2889,11 @@
         "description": "When taking damage, there is a 20% chance to restore 1 Order Energy. Can be triggered again after 1 second."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/65.png"
   },
   "66": {
     "name": "Hauen",
@@ -2759,7 +2939,8 @@
     "special_equip": {
       "name": "Key of Fantasy",
       "description": "Hauen has always been guarding the beautiful dreams of every child"
-    }
+    },
+    "profile_img": "/assets/profile_img/66.png"
   },
   "67": {
     "name": "Parfait",
@@ -2802,7 +2983,11 @@
         "description": "Reduces the damage Parfait takes by 30% and allows her to recover HP equal to 40% of her ATK every time she takes damage."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/67.png"
   },
   "68": {
     "name": "Dorin",
@@ -2845,7 +3030,11 @@
         "description": "Increases base ATK by 5% (10% at Evolve 1)"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/68.png"
   },
   "69": {
     "name": "Mayahuel",
@@ -2891,7 +3080,8 @@
     "special_equip": {
       "name": "Staff of Promise",
       "description": "A memento given to Mayahuel by Dana, the Goddess of the Lake. Holds the power to manipulate the growth of all trees."
-    }
+    },
+    "profile_img": "/assets/profile_img/69.png"
   },
   "70": {
     "name": "Mineer",
@@ -2937,7 +3127,8 @@
     "special_equip": {
       "name": "Palemoon",
       "description": "A piece of jewelry handed down over generations of elves. Said to hold the power of moonlight."
-    }
+    },
+    "profile_img": "/assets/profile_img/70.png"
   },
   "71": {
     "name": "Matveiffe",
@@ -2983,7 +3174,8 @@
     "special_equip": {
       "name": "Paradox",
       "description": "Cognitive biases often lead to paradoxes. This is the problem Matveiffe is going to tackle."
-    }
+    },
+    "profile_img": "/assets/profile_img/71.png"
   },
   "72": {
     "name": "Sher",
@@ -3029,7 +3221,8 @@
     "special_equip": {
       "name": "Destiny Reveal",
       "description": "A magical item that can manifest the past and guide the future. It is said that Sher always carries it around."
-    }
+    },
+    "profile_img": "/assets/profile_img/72.png"
   },
   "73": {
     "name": "Ruda",
@@ -3072,7 +3265,11 @@
         "description": "When using skills, there is a20% chance to generate 1 Chaos Energy."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/73.png"
   },
   "74": {
     "name": "Hilda",
@@ -3115,7 +3312,11 @@
         "description": "When used, all enemies take 15% more damage for 5s."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/74.png"
   },
   "75": {
     "name": "Fey",
@@ -3158,7 +3359,11 @@
         "description": "Deals 10% more damage."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/75.png"
   },
   "76": {
     "name": "Mortimer",
@@ -3201,7 +3406,11 @@
         "description": "Auto uses Whisper of Flower once on allies that are below 30% Health. Can only trigger once every 8 seconds."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/76.png"
   },
   "78": {
     "name": "Suigetsu",
@@ -3244,7 +3453,11 @@
         "description": "Increase Suigetsu's base ATK by 2% every 3 seconds, stacking up to 20 times."
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/78.png"
   },
   "79": {
     "name": "Symbriette",
@@ -3290,7 +3503,8 @@
     "special_equip": {
       "name": "Floating Radiance",
       "description": "A kickboard with dreamy radiance under the sun. Rest on it to be immersed in the sound of the sea."
-    }
+    },
+    "profile_img": "/assets/profile_img/79.png"
   },
   "80": {
     "name": "Nasha",
@@ -3336,7 +3550,8 @@
     "special_equip": {
       "name": "Gorgeous Curtain",
       "description": "Under the patronage of the Holmgard royal family, Nasha can study the lost magic as she pleases."
-    }
+    },
+    "profile_img": "/assets/profile_img/80.png"
   },
   "81": {
     "name": "Kamui",
@@ -3382,7 +3597,8 @@
     "special_equip": {
       "name": "Divine Dove",
       "description": "A fantastic animal unaffected by Kamui's psychic power, who silently accompanied her during the years she lived alone"
-    }
+    },
+    "profile_img": "/assets/profile_img/81.png"
   },
   "82": {
     "name": "Sinmara",
@@ -3428,7 +3644,8 @@
     "special_equip": {
       "name": "Abyssal Flame",
       "description": "A chain that rises from the abyss of lava. Filled with Sinmara's grudges."
-    }
+    },
+    "profile_img": "/assets/profile_img/82.png"
   },
   "83": {
     "name": "Cersivey",
@@ -3474,7 +3691,8 @@
     "special_equip": {
       "name": "Sizzling Ice",
       "description": "Made of special ice stone from the mysterious land of the far north. Except for Cersivey, others will be mercilessly frostbitten if they touch it."
-    }
+    },
+    "profile_img": "/assets/profile_img/83.png"
   },
   "84": {
     "name": "Asherah",
@@ -3520,7 +3738,8 @@
     "special_equip": {
       "name": "Sentience",
       "description": "A symbol of the highest will of Irminsul, imbued with the power of life."
-    }
+    },
+    "profile_img": "/assets/profile_img/84.png"
   },
   "85": {
     "name": "Flare",
@@ -3566,7 +3785,8 @@
     "special_equip": {
       "name": "Glorious Amulet",
       "description": "A testament to the past glory of Irminsul. Only allowed to be worn by the ritual-performing priestess."
-    }
+    },
+    "profile_img": "/assets/profile_img/85.png"
   },
   "86": {
     "name": "Phrygia",
@@ -3609,7 +3829,11 @@
         "description": "Phrygia's attacks and skills can't be dodged; and both ignore the target's Physical DEF equal to 30% of self's ATK"
       }
     },
-    "special_equip": "JS error while getting attributes"
+    "special_equip": {
+      "name": "JS error while getting attributes",
+      "description": "JS error while getting attributes"
+    },
+    "profile_img": "/assets/profile_img/86.png"
   },
   "88": {
     "name": "Camilyne",
@@ -3655,7 +3879,8 @@
     "special_equip": {
       "name": "Peacebringer",
       "description": "The symbol of Protector. Represents Camilyne's dedication to protecting Cassiel."
-    }
+    },
+    "profile_img": "/assets/profile_img/88.png"
   },
   "89": {
     "name": "Dark Anemone",
@@ -3701,7 +3926,8 @@
     "special_equip": {
       "name": "Malevolence",
       "description": "A fatal weapon utterly exuding malevolence when coming to heretics."
-    }
+    },
+    "profile_img": "/assets/profile_img/89.png"
   },
   "90": {
     "name": "Betsy",
@@ -3747,7 +3973,8 @@
     "special_equip": {
       "name": "Dark Stalking",
       "description": "The long whip that Betsy carries around, always raiding enemies from unexpected directions."
-    }
+    },
+    "profile_img": "/assets/profile_img/90.png"
   },
   "91": {
     "name": "Curtana",
@@ -3793,7 +4020,8 @@
     "special_equip": {
       "name": "Divine Judgment",
       "description": "The Swords of Divine Judgment, also known as Parondit & Fusariel, hold magic powerful enough to cut the sky in half."
-    }
+    },
+    "profile_img": "/assets/profile_img/91.png"
   },
   "92": {
     "name": "Little Akasha",
@@ -3839,7 +4067,8 @@
     "special_equip": {
       "name": "Ceremonial Sword",
       "description": "A ceremonial sword used in rituals. It's more about looking cool than dealing damage."
-    }
+    },
+    "profile_img": "/assets/profile_img/92.png"
   },
   "93": {
     "name": "Gracin",
@@ -3885,7 +4114,8 @@
     "special_equip": {
       "name": "Soul Calmer",
       "description": "A staff capable of healing wounds and eliminating disasters."
-    }
+    },
+    "profile_img": "/assets/profile_img/93.png"
   },
   "94": {
     "name": "Goddess Dana",
@@ -3931,7 +4161,8 @@
     "special_equip": {
       "name": "Everwatcher",
       "description": "An artifact that once kept Demongod at bay. Now safeguards the future of the Elves."
-    }
+    },
+    "profile_img": "/assets/profile_img/94.png"
   },
   "95": {
     "name": "Idol Flora",
@@ -3977,7 +4208,8 @@
     "special_equip": {
       "name": "Melody Echo",
       "description": "Originally, it was just an ordinary microphone. Under the nourishment of Flora's beautiful singing voice, it began to gradually change......"
-    }
+    },
+    "profile_img": "/assets/profile_img/95.png"
   },
   "97": {
     "name": "Phileanosis",
@@ -4023,7 +4255,8 @@
     "special_equip": {
       "name": "Time Reset",
       "description": "Time is reset again and again, but the future stays the same."
-    }
+    },
+    "profile_img": "/assets/profile_img/97.png"
   },
   "98": {
     "name": "Maja Kany",
@@ -4069,7 +4302,8 @@
     "special_equip": {
       "name": "Plop Bag",
       "description": "Whatever you want, you'll find it here—and at unbeatable prices too. Don't miss out!"
-    }
+    },
+    "profile_img": "/assets/profile_img/98.png"
   },
   "99": {
     "name": "Eddine",
@@ -4115,7 +4349,8 @@
     "special_equip": {
       "name": "Reverie",
       "description": "A magical item with a soft luminous glow. Can guide people into the dreamland."
-    }
+    },
+    "profile_img": "/assets/profile_img/99.png"
   },
   "100": {
     "name": "Amorai",
@@ -4161,7 +4396,8 @@
     "special_equip": {
       "name": "Ode to Sorrow",
       "description": "Amorai has a way of cheering people up with her words. If you're in a bad mood, come talk to her."
-    }
+    },
+    "profile_img": "/assets/profile_img/100.png"
   },
   "101": {
     "name": "Bellavita",
@@ -4207,7 +4443,8 @@
     "special_equip": {
       "name": "Seaflow",
       "description": "A ribbon carrying the will of the sea. It can not only see the billowing waves, but also hear the tides."
-    }
+    },
+    "profile_img": "/assets/profile_img/101.png"
   },
   "102": {
     "name": "Princess Amanami",
@@ -4253,7 +4490,8 @@
     "special_equip": {
       "name": "Kalavin",
       "description": "A ceremonial instrument used during rituals to worship the god. Adorned with the feathers of the divine birds from Elysium"
-    }
+    },
+    "profile_img": "/assets/profile_img/102.png"
   },
   "103": {
     "name": "Ninsar",
@@ -4299,7 +4537,8 @@
     "special_equip": {
       "name": "Regeneration",
       "description": "An unpretentious brooch, but in fact blessed with the power of blessing by the Goddess of the Lake"
-    }
+    },
+    "profile_img": "/assets/profile_img/103.png"
   },
   "104": {
     "name": "U·Pollyben",
@@ -4345,7 +4584,8 @@
     "special_equip": {
       "name": "Virtual Vision",
       "description": "U·Pollyben uses her paintbrush to create beautiful worlds, worlds that only she can see."
-    }
+    },
+    "profile_img": "/assets/profile_img/104.png"
   },
   "105": {
     "name": "Claire",
@@ -4391,7 +4631,8 @@
     "special_equip": {
       "name": "Shiny Star",
       "description": "When Claire picks it up, the winner of the idol contest is a forgone conclusion."
-    }
+    },
+    "profile_img": "/assets/profile_img/105.png"
   },
   "106": {
     "name": "Sally",
@@ -4437,7 +4678,8 @@
     "special_equip": {
       "name": "Healer's Kit",
       "description": "A medical kit filled with all kinds of healing potions and medical devices. Sally carries it wherever she goes."
-    }
+    },
+    "profile_img": "/assets/profile_img/106.png"
   },
   "107": {
     "name": "Naiad",
@@ -4483,7 +4725,8 @@
     "special_equip": {
       "name": "Soulgain·Flame Chopper",
       "description": "This blade is a gift from Amanami. As its name suggests, it can extinguish flame and clear paths. It can destroy souls and vanquish evil spirits before guiding them to the underworld."
-    }
+    },
+    "profile_img": "/assets/profile_img/107.png"
   },
   "108": {
     "name": "Tuonel of Night",
@@ -4529,7 +4772,8 @@
     "special_equip": {
       "name": "Patton Bear",
       "description": "The toy bear hosts a powerful demon that can destroy the world. This demon only takes orders from Tuonel."
-    }
+    },
+    "profile_img": "/assets/profile_img/108.png"
   },
   "109": {
     "name": "Sanva",
@@ -4575,7 +4819,8 @@
     "special_equip": {
       "name": "Forsakenness",
       "description": "Absorbed the energy of the Lethe, with the power to make evil spirits forsake their past and fall into an eternal slumber at the bottom of the Lethe."
-    }
+    },
+    "profile_img": "/assets/profile_img/109.png"
   },
   "110": {
     "name": "Kapla",
@@ -4621,7 +4866,8 @@
     "special_equip": {
       "name": "Tiger Paw",
       "description": "Don't worry, it's just a touch. It'll be absolutely fine, I promise!"
-    }
+    },
+    "profile_img": "/assets/profile_img/110.png"
   },
   "111": {
     "name": "Angling",
@@ -4667,7 +4913,8 @@
     "special_equip": {
       "name": "Lucky Fishing Rod",
       "description": "Angling's homemade fishing rod. Once the fish is hooked, it cannot easily break free."
-    }
+    },
+    "profile_img": "/assets/profile_img/111.png"
   },
   "112": {
     "name": "Cassis",
@@ -4713,7 +4960,8 @@
     "special_equip": {
       "name": "Burning Wave",
       "description": "A weapon Floating Captain wore around the waist. Focuses more on practicality than aesthetics."
-    }
+    },
+    "profile_img": "/assets/profile_img/112.png"
   },
   "113": {
     "name": "Shiroi",
@@ -4759,7 +5007,8 @@
     "special_equip": {
       "name": "Pearl Shell",
       "description": "The rain drops and turns into grains of pearls. Shiroi usually hides inside and observes the humans coming and going."
-    }
+    },
+    "profile_img": "/assets/profile_img/113.png"
   },
   "115": {
     "name": "Evernight Nocturna",
@@ -4805,7 +5054,8 @@
     "special_equip": {
       "name": "Seduction",
       "description": "A hat favored by Nocturna. Nocturna has a lot of confidence in her fashion taste, even though it baffles many people."
-    }
+    },
+    "profile_img": "/assets/profile_img/115.png"
   },
   "116": {
     "name": "Auris",
@@ -4851,7 +5101,8 @@
     "special_equip": {
       "name": "Endless Spirit",
       "description": "A mysterious phantom floating around Auris."
-    }
+    },
+    "profile_img": "/assets/profile_img/116.png"
   },
   "117": {
     "name": "",
@@ -4897,7 +5148,8 @@
     "special_equip": {
       "name": "Unknown name",
       "description": "Unknown description"
-    }
+    },
+    "profile_img": "/assets/profile_img/117.png"
   },
   "119": {
     "name": "Nicolis",
@@ -4943,7 +5195,8 @@
     "special_equip": {
       "name": "Redemption",
       "description": "The staff given to Nicolis by the Holy Church leadership. A symbol of her role as a hierophant."
-    }
+    },
+    "profile_img": "/assets/profile_img/119.png"
   },
   "120": {
     "name": "Danelim",
@@ -4989,7 +5242,8 @@
     "special_equip": {
       "name": "Splendor",
       "description": "Danelim's favorite hair accessory. Even in the darkness of the night, it gives off a radiant glow."
-    }
+    },
+    "profile_img": "/assets/profile_img/120.png"
   },
   "121": {
     "name": "Amane",
@@ -5035,7 +5289,8 @@
     "special_equip": {
       "name": "Wispy Cloud",
       "description": "Light as the wind, wispy as smoke. Amane's favorite garment."
-    }
+    },
+    "profile_img": "/assets/profile_img/121.png"
   },
   "122": {
     "name": "Carol",
@@ -5081,7 +5336,8 @@
     "special_equip": {
       "name": "Odomera",
       "description": "A sword handed down over generations in the Kingdom of Lochaber. Reserved for the heir to the throne."
-    }
+    },
+    "profile_img": "/assets/profile_img/122.png"
   },
   "123": {
     "name": "Snowshine",
@@ -5127,7 +5383,8 @@
     "special_equip": {
       "name": "Sweet Heartbeat",
       "description": "Snowshine's newly developed dessert. Popular among young people."
-    }
+    },
+    "profile_img": "/assets/profile_img/123.png"
   },
   "124": {
     "name": "Geisha",
@@ -5173,6 +5430,7 @@
     "special_equip": {
       "name": "Heart Arrow",
       "description": "A ranged weapon infused with Geisha's thoughts."
-    }
+    },
+    "profile_img": "/assets/profile_img/124.png"
   }
 }
